@@ -1,0 +1,22 @@
+{
+  "examType": "Final",
+  "courseId": 1,
+  "courseName": "Database Systems",
+  "courseCode": "CS-201",
+  "semester": 2,
+  "degreeLevel": "Bachelor",
+  "department": "Computer Science",
+  "date": "2024-06-15",
+  "duration": "2 hours",
+  "totalMarks": 100,
+  "examinerName": "Dr. John Smith",
+  "institutionName": "University of Technology",
+  "institutionLogo": "https://via.placeholder.com/100x100?text=Logo",
+  "instructions": [
+    "Answer all questions",
+    "Show all working for calculations",
+    "Use only authorized materials",
+    "No electronic devices allowed",
+    "Write clearly and legibly"
+  ]
+}
