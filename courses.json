@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Database Systems",
+      "code": "CS-201",
+      "semester": 2,
+      "degreeLevel": "Bachelor",
+      "department": "Computer Science"
+    },
+    {
+      "id": 2,
+      "name": "Web Development",
+      "code": "CS-301",
+      "semester": 3,
+      "degreeLevel": "Bachelor",
+      "department": "Computer Science"
+    },
+    {
+      "id": 3,
+      "name": "Machine Learning",
+      "code": "CS-401",
+      "semester": 4,
+      "degreeLevel": "Master",
+      "department": "Computer Science"
+    },
+    {
+      "id": 4,
+      "name": "Data Structures",
+      "code": "CS-101",
+      "semester": 1,
+      "degreeLevel": "Bachelor",
+      "department": "Computer Science"
+    },
+    {
+      "id": 5,
+      "name": "Mobile App Development",
+      "code": "CS-302",
+      "semester": 3,
+      "degreeLevel": "Bachelor",
+      "department": "Computer Science"
+    },
+    {
+      "id": 6,
+      "name": "Advanced Algorithms",
+      "code": "CS-402",
+      "semester": 4,
+      "degreeLevel": "Master",
+      "department": "Computer Science"
+    }
+  ]
+}
