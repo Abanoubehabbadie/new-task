@@ -1,0 +1,44 @@
+{
+  "examTypes": [
+    {
+      "id": 1,
+      "name": "Quiz",
+      "description": "Short assessment",
+      "defaultDuration": "30 minutes",
+      "defaultMarks": 10,
+      "abbreviation": "Q"
+    },
+    {
+      "id": 2,
+      "name": "Practical",
+      "description": "Hands-on assessment",
+      "defaultDuration": "3 hours",
+      "defaultMarks": 50,
+      "abbreviation": "P"
+    },
+    {
+      "id": 3,
+      "name": "Final",
+      "description": "Final examination",
+      "defaultDuration": "2 hours",
+      "defaultMarks": 100,
+      "abbreviation": "F"
+    },
+    {
+      "id": 4,
+      "name": "Midterm",
+      "description": "Mid-semester examination",
+      "defaultDuration": "2 hours",
+      "defaultMarks": 50,
+      "abbreviation": "M"
+    },
+    {
+      "id": 5,
+      "name": "Assignment",
+      "description": "Assignment submission",
+      "defaultDuration": "1 week",
+      "defaultMarks": 20,
+      "abbreviation": "A"
+    }
+  ]
+}
